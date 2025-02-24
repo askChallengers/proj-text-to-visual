@@ -18,6 +18,10 @@ slack-sdk = "*"
 pandas-gbq = "*"
 google-cloud-bigquery = "*"
 openai = "*"
+requests-oauthlib = "*"
+tweepy = "*"
+pythreads = "*"
+runwayml = "^2.3.1"
 
 [build-system]
 requires = ["poetry-core"]
